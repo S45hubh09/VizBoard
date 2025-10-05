@@ -154,9 +154,10 @@ if "show_graphs" not in st.session_state:
 # === BUTTON TO PROCEED TO NEXT PAGE ===
 col1, col2 = st.columns([1, 2])
 with col2:
-    if st.button("Show"):
-        st.session_state.show_graphs = True
-        st.rerun()
+   if st.button("Show"):
+       st.session_state.show_graphs = True
+
+    
 
 # === FUNCTION TO CREATE PDF FROM PLOT ONLY ===
 from fpdf import FPDF
@@ -235,3 +236,4 @@ with col2:
                 mime="application/pdf"
             )
             st.success("Graph + Data PDF downloaded successfully!")
+
