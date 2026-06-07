@@ -3,9 +3,7 @@
 An interactive data visualization dashboard that helps users analyze CSV datasets through powerful visualizations and downloadable reports.
 #<img width="772" height="428" alt="image" src="https://github.com/user-attachments/assets/1f6e4d08-888e-4a28-b5a8-d4ef6b96b5db" />
 
-### Check out the live site:
-
-https://vizboard.streamlit.app/
+### Check out the live site: https://vizboard.streamlit.app/
 
 ---
 
@@ -58,7 +56,6 @@ https://vizboard.streamlit.app/
 * AI-Powered Visualization Suggestions
 
 ### Contact
+ LinkedIn: [Shubham Gharage](https://www.linkedin.com/in/shubham-gharage-a7283437b)
 
-GitHub: https://github.com/S45hubh09/VizBoard
 
-Live Demo: https://vizboard.streamlit.app/
